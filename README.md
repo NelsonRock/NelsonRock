@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NelsonRock
 - 👀 I’m interested in a lot of stuff, I'm from the 70s
-- 🌱 I'm actually digging deeper. React and SAS data projets.
+- 🌱 I'm actually digging deeper into React NodeJs and SAS data projets. JavaScript forever. 
 - 💞️ I’m looking to collaborate on React and JavaScript projets from remote.
 - 📫 You can mail me and get in touch any time :)  
 
